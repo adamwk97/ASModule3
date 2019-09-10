@@ -37,6 +37,7 @@ While Spearman's coefficient on the other hand is also a measure of correlation,
 
 ## Scatterplot
 ![scatterplot](https://i.gyazo.com/9f6caa1f17c3df5bb5ab56ef021a7994.png)
+
 As we can see, the scaterplot is quite linear and the line of best fit is very plain to see. This plot shows us that there is indeed heavy correlation between the two variables tested and it agrees with our earlier inferences alongside Pearson and Spearman's coefficients.
 
 ```{r scatterplot, echo=TRUE}
