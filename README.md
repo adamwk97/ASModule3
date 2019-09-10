@@ -1,5 +1,8 @@
+# Module 3 Assignment - Airport Screening Analysis 
+"The following data represents the turnover rate of pre-boarding screeners at airports in USA during 1988 - 1999 and the security violations detected. 
+The following are measurements for 20 random cases:"
 ![Data table](https://i.gyazo.com/dbf0a8561dc44e6497fd09b126804657.png)
-# Module 3 Assignment - Airport Screening Analysis
+
 
 ## What is the Association Between the Number of Airport Screeners and Security Violations?
 
